@@ -1,0 +1,17 @@
+<!DOCTYPE html>  
+<html>
+<head>
+<meta charset="utf-8">
+<title>404 Not Found</title>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/screen.css">
+</head>
+<body>
+<h1>404 Not Found</h1>
+<p>Tento soubor nebyl nalezen.</p>
+<h2>Kam dále?</h2>
+<ul>
+<li><a href="/">Na hlavní stránku</a>
+</ul>
+</body>
+</html>

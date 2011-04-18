@@ -1,0 +1,9 @@
+Semestralni prace pro predmet 4IZ110
+------------------------------------
+
+Programovani uloh z tematiky 4IZ110
+Jednoduchy webovy server
+
+Server se spousti prikazem ruby run_server.rb 127.0.0.1 80
+
+Autor: Viliam Kopecky
