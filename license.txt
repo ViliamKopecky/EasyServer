@@ -1,0 +1,7 @@
+Copyright (c) 2011 Viliam Kopecky
+
+Licencováno pod NWL - No Whining License.
+Tento produkt můžete používat, upravovat a dále šířit, pokud souhlasíte s tím, že:
+- si nebudete stěžovat na tento produkt
+- na produkt není poskytována žádná záruka jakéhokoli druhu
+- tato licenční poznámka bude zachována v plném rozsahu
